@@ -1,0 +1,34 @@
+import java.util.*;
+
+class arraysum {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int n[] = new int[5];
+        System.out.println("Enter 5 numbers:");
+
+        
+        for (int i = 0; i < 5; i++) {
+            n[i] = sc.nextInt();
+        }
+
+        System.out.println("Our array has the following numbers:");
+        for (int i = 0; i < 5; i++) {
+            System.out.print(n[i] + " ");
+        }
+
+        
+        int sum = 0;
+        for (int i = 0; i < 5; i++) {
+            sum += n[i];
+        }
+
+       
+        float avg = (float) sum / 5;
+
+        
+        System.out.println("\nThe sum of these is: " + sum);
+        System.out.println("The average of these is: " + avg);
+
+        sc.close();
+    }
+}

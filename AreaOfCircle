@@ -5,8 +5,9 @@ class AreaOfCircle {
 
       
         System.out.println("Enter radius: ");
-        double r = sc.nextDouble();
-        double area = 3.14 * r * r;
-        System.out.printf("Area of the circle is %f",area );   
+        float r = sc.nextFloat();
+        float pi=3.14f;
+        float area = pi * r * r;
+        System.out.println("Area of the circle is %f"+area );   
     }
 }

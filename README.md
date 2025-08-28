@@ -32,3 +32,7 @@ array search
 <img width="1362" height="711" alt="image" src="https://github.com/user-attachments/assets/9ba38939-f979-4ca7-89f1-b588f6c587fd" />
 copy one array to another
 <img width="1239" height="718" alt="image" src="https://github.com/user-attachments/assets/aaa64ebb-7644-48a9-89db-92ec2bfb5608" />
+swap first and last element 
+<img width="1419" height="495" alt="image" src="https://github.com/user-attachments/assets/0498ba64-4ec1-41fd-9386-5fd26f6709b0" />
+counting of a number
+<img width="1706" height="693" alt="image" src="https://github.com/user-attachments/assets/f709b454-dcdb-48f5-9cc6-82adcce2c31c" />

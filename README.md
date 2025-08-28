@@ -26,3 +26,5 @@ only odd numbers of array
 <img width="1474" height="630" alt="image" src="https://github.com/user-attachments/assets/5abeb79c-648c-4824-bb44-a068b63efb3b" />
 maximun element of array
 <img width="1510" height="635" alt="image" src="https://github.com/user-attachments/assets/ceffb57e-7f2b-49a4-b888-fa13d9719344" />
+minimum element of array
+<img width="1527" height="740" alt="image" src="https://github.com/user-attachments/assets/12ea29bc-0980-43ed-b574-ea728f388567" />

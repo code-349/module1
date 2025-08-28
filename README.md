@@ -36,3 +36,5 @@ swap first and last element
 <img width="1419" height="495" alt="image" src="https://github.com/user-attachments/assets/0498ba64-4ec1-41fd-9386-5fd26f6709b0" />
 counting of a number
 <img width="1706" height="693" alt="image" src="https://github.com/user-attachments/assets/f709b454-dcdb-48f5-9cc6-82adcce2c31c" />
+Find the index of the element
+<img width="1394" height="765" alt="image" src="https://github.com/user-attachments/assets/f1e86bb7-9d44-4d1b-8eea-e8b9ef82137f" />

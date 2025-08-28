@@ -11,7 +11,7 @@ class DOB{
        
         int c = b-a;
         
-        System.out.printf("Your age is %d",+c);
+        System.out.println("Your age is "+c);
         
          
     }

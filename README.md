@@ -20,3 +20,5 @@ Number greater tha 50
 <img width="1441" height="780" alt="image" src="https://github.com/user-attachments/assets/65e03f02-bab9-42db-a224-db57bfa5afa4" />
 Array in reverse order
 <img width="1662" height="802" alt="image" src="https://github.com/user-attachments/assets/ae7a8445-a73d-4dff-bac6-2484ef33a23c" />
+only even numbers of array
+<img width="1250" height="789" alt="image" src="https://github.com/user-attachments/assets/9e99f7cb-37a1-432c-98ba-7765f08f8707" />

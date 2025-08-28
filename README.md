@@ -28,3 +28,6 @@ maximun element of array
 <img width="1510" height="635" alt="image" src="https://github.com/user-attachments/assets/ceffb57e-7f2b-49a4-b888-fa13d9719344" />
 minimum element of array
 <img width="1527" height="740" alt="image" src="https://github.com/user-attachments/assets/12ea29bc-0980-43ed-b574-ea728f388567" />
+array search
+<img width="1362" height="711" alt="image" src="https://github.com/user-attachments/assets/9ba38939-f979-4ca7-89f1-b588f6c587fd" />
+

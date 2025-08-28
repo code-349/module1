@@ -18,3 +18,5 @@
 <img width="1380" height="686" alt="Screenshot 2025-08-28 122340" src="https://github.com/user-attachments/assets/fe0bb8f7-f46c-46a7-b6fb-09e61c7e0abf" />
 Number greater tha 50
 <img width="1441" height="780" alt="image" src="https://github.com/user-attachments/assets/65e03f02-bab9-42db-a224-db57bfa5afa4" />
+Array in reverse order
+<img width="1662" height="802" alt="image" src="https://github.com/user-attachments/assets/ae7a8445-a73d-4dff-bac6-2484ef33a23c" />

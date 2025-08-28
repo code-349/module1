@@ -1,0 +1,28 @@
+import java.util.*;
+
+class CopyArray {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int n[] = new int[5];
+        int copy[] = new int[5];  // another array of same size
+
+        System.out.println("Enter 5 numbers:");
+        for (int i = 0; i < n.length; i++) {
+            n[i] = sc.nextInt();
+        }
+
+        // Copying elements
+        for (int i = 0; i < n.length; i++) {
+            copy[i] = n[i];
+        }
+
+        // Printing the copied array
+        System.out.println("Copied array elements:");
+        for (int i = 0; i < copy.length; i++) {
+            System.out.println(copy[i]);
+        }
+
+        sc.close();
+    }
+}

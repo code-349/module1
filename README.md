@@ -24,3 +24,5 @@ only even numbers of array
 <img width="1250" height="789" alt="image" src="https://github.com/user-attachments/assets/9e99f7cb-37a1-432c-98ba-7765f08f8707" />
 only odd numbers of array
 <img width="1474" height="630" alt="image" src="https://github.com/user-attachments/assets/5abeb79c-648c-4824-bb44-a068b63efb3b" />
+maximun element of array
+<img width="1510" height="635" alt="image" src="https://github.com/user-attachments/assets/ceffb57e-7f2b-49a4-b888-fa13d9719344" />

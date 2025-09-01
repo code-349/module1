@@ -38,3 +38,7 @@ counting of a number
 <img width="1706" height="693" alt="image" src="https://github.com/user-attachments/assets/f709b454-dcdb-48f5-9cc6-82adcce2c31c" />
 Find the index of the element
 <img width="1394" height="765" alt="image" src="https://github.com/user-attachments/assets/f1e86bb7-9d44-4d1b-8eea-e8b9ef82137f" />
+string to uppercase
+<img width="1235" height="470" alt="image" src="https://github.com/user-attachments/assets/42238692-e903-4ef8-9b41-f35a80f1ad4b" />
+string to lower case
+<img width="1340" height="550" alt="image" src="https://github.com/user-attachments/assets/b00ed22b-f01d-4f2b-aa3d-1ef4307b59f3" />

@@ -1,0 +1,11 @@
+class StrReverse{
+    public static void main(String[] args) {
+       String originalString = "hello";
+
+        
+    StringBuilder sb = new StringBuilder(originalString);
+    String reversedString1 = sb.reverse().toString();
+    System.out.println("Reversed using StringBuilder: " + reversedString1);
+
+    }
+}

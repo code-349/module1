@@ -42,3 +42,5 @@ string to uppercase
 <img width="1235" height="470" alt="image" src="https://github.com/user-attachments/assets/42238692-e903-4ef8-9b41-f35a80f1ad4b" />
 string to lower case
 <img width="1340" height="550" alt="image" src="https://github.com/user-attachments/assets/b00ed22b-f01d-4f2b-aa3d-1ef4307b59f3" />
+reverse of string 
+<img width="1501" height="598" alt="image" src="https://github.com/user-attachments/assets/7b7a7b2e-14f1-44ae-abe7-a4181ed3ee30" />

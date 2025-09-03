@@ -47,3 +47,7 @@ reverse of string
 two strings r equal
 <img width="1379" height="794" alt="image" src="https://github.com/user-attachments/assets/f1ffba2d-5750-4c4e-add5-033f0dc86699" />
 <img width="1415" height="682" alt="Screenshot 2025-09-01 122833" src="https://github.com/user-attachments/assets/759e1265-b2f5-46fa-a392-083bc83d88c7" />
+length of the string
+<img width="1756" height="710" alt="Screenshot 2025-09-03 143051" src="https://github.com/user-attachments/assets/040e1467-fb7a-425f-93f1-2aa841f70b69" />
+first and last char of string
+<img width="1618" height="716" alt="image" src="https://github.com/user-attachments/assets/e5fb2309-eb50-4c96-a948-2ce9b5a615aa" />

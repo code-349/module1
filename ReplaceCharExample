@@ -1,0 +1,15 @@
+import java.util.Scanner; 
+
+public class ReplaceCharExample {
+    public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in); 
+        System.out.println("Enter a String:");
+        String originalString = scanner.nextLine(); 
+        String replacedString = originalString.replace('a', 'o'); 
+
+        System.out.println("Original String: " + originalString);
+        System.out.println("Replaced String: " + replacedString);
+
+        scanner.close();  
+    }
+}

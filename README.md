@@ -51,3 +51,5 @@ length of the string
 <img width="1756" height="710" alt="Screenshot 2025-09-03 143051" src="https://github.com/user-attachments/assets/040e1467-fb7a-425f-93f1-2aa841f70b69" />
 first and last char of string
 <img width="1618" height="716" alt="image" src="https://github.com/user-attachments/assets/e5fb2309-eb50-4c96-a948-2ce9b5a615aa" />
+Replace a Character
+<img width="1415" height="664" alt="image" src="https://github.com/user-attachments/assets/1f802a77-0ec6-4e83-a325-9dc9b214448b" />

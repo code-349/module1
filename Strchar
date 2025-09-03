@@ -1,0 +1,19 @@
+import java.util.*;
+class Strchar{
+    public static void main(String[] args) {
+     
+
+      Scanner scanner = new Scanner(System.in); 
+
+        System.out.println("Enter a string:"); 
+        String s = scanner.nextLine(); 
+    
+    
+    System.out.println("First character: " + s.charAt(0));
+     System.out.println("Last character: " +s.charAt(s.length()-1));
+    
+
+    
+
+    }
+}

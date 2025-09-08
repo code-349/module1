@@ -1,0 +1,11 @@
+ class increamentdecteamnt {
+    public static void main(String[] args) {
+        int x = 10;
+        System.out.println("Orginal:"+x);
+        System.out.println("post increment:"+(x++));
+        System.out.println("After post increment :"+x);
+        System.out.println("pre decrement:"+x);
+        System.out.println("post decrement:"+(x--));
+        System.out.println("pre decrement :"+(--x));
+    }
+}
